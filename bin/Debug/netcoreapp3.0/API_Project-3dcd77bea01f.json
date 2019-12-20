@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "api-project-1069529230962",
+  "private_key_id": "3dcd77bea01fb8e777d2018725a80cb977ad8652",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCq424Eop+GmyU/\nZTPzZcFlcEf8o/63teFFBuzDsbty25wltXQGgyERJJztQNKMkrhuHIqYAQWgdAHC\nJXtAxrg41xzSl0gX2Rr34G+AKps4AK0hzGOBFKRoxqYtNR6Ds75ZUR2nMWSCK5XG\nIdvovJmMjPz7G1d6tqrqPu1WxCQbDvEAERdKCLihs44cJrABCNNQypU51sW0LwpJ\n1RvBVTJIhaKydW0T1QCBghkwPUqtIJtcoDScO6ukCufE5eIP9YUHsJItkx6lXLgy\nhSMeEpgvdWPvwQzxunn+Adr4dKKNP0041muTqiS9IWo3B0zeQ0M98yd68/y1IbCr\nqdN+FGKdAgMBAAECggEAA54wCJoWzYdAWSC/4lHPr+GaLI+eR25q2AbHAXekU9Cx\ndBzs2WxySUYgqmc6be53SCGDj6dJ4rVCCkW33821PcLUIeNBC/w1NXVDdw+v3JYr\nFDGbE7MHrg4ym3dp73jhOUvd2FnT2muozpqN6NYBXDfp7TkNd5Qhdzcg2Drr1sTH\n1nbnj6idY07Uy4ZJ+vrzL5Uxx36NGKYX78uOZQ8AQApnxH928Behm2KdIG68ciPu\n4iHY9iPiYsocTnEQDF4jstnzdq9P7kUtvMqAOgEkcooVjreqwaHTUO2u7+CpaTna\nFKDpfnkCEbIq56gzdxnixN5+oyIY8S8HVwVtJuqD8QKBgQDfFFSr/qv/YBIkFvzk\nZWKAuu4rw8oh9jfQ8ZKXx2DLUycT7ZHJk567K/Acm/TKfj6qr/2RkW8WLXP0Dk0t\nz8eo9hmjeYSJJpF9erFFCManpWufyskrxNW7BtNbpaJwHiwNpRHG9IcLrpp8mM1g\nkt8rv/ad23oMPP0JSvxOll14qQKBgQDEG2K+xWEkpvmuOJ/gl4Ld+PZEnh4+Okln\nrQp7vqfeO6MLU9Zdv2RcNbPXTP9d+veF1Y1+a5mn4bH21xfr++C5ec6YPOiOAfTV\nbkIyrXHdOZaeFLDCB/pAEmVpim5TqlhJ6b+jiS5AsARfZb+S8EXzAWW0OEuFxhoK\nWui2kN/O1QKBgQC30pUDNdSdl5jbTGYP/stwsJjaT3gdDDtqXeYiVBUa9uZYsYdU\nx+Qg8E/oA0twIR+an3MfpOwZJlNKZQ6MFY+9Vy5BWz0vlyyEbbnt3RF1zAYnon6r\nJoPInhNEjfSQ1wwOIlvHynAN3E9JJND4J47nCkQ6SEUGGKuaIMRQLe/QIQKBgHg1\nxVDlkwexpwmpwi8dEOZaTzN+rVE9z3NS+kMieqpaajZuXNA4mx9+98+5bixAw+vx\nHPvqn1Tun3WNIifQzU9EoGRnqbIq9tbB8Kg587tFKtOaIUO/OiJ+ZFXOupRkrhwY\nwhVP6N9URknoCAfdazNrntlbTMgiyCGi2lXW9qpFAoGAOrnNsxTp3fqHQXTG5OqH\nu0YbuAS2i+GiuHL/5vhyk58Ds3RuXBgaNcEY3JfFQ43XtGNSqTPcK3QPoe7KNTD5\nPal7zjQR2D11doWqkbnjfMfJt7vR89Nj375Vv4Us6S6l+uzIj8jNjFC3kLv7g1Ir\nLGRD1wOB8wh5Ho4z7JO96+s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mediastorageadmin@api-project-1069529230962.iam.gserviceaccount.com",
+  "client_id": "102942229054756312687",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mediastorageadmin%40api-project-1069529230962.iam.gserviceaccount.com"
+}
